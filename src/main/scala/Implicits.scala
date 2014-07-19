@@ -1,4 +1,4 @@
-package io.yard.utils
+package io.yard.common.utils
 
 import org.joda.time.Duration
 

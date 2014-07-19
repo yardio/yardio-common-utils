@@ -1,4 +1,4 @@
-package io.yard.utils
+package io.yard.common.utils
 
 import play.api.Logger
 import play.api.libs.json._

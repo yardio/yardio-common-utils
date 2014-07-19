@@ -1,4 +1,4 @@
-/*package io.yard.utils
+/*package io.yard.common.utils
 
 import com.typesafe.config.ConfigFactory
 
@@ -6,7 +6,7 @@ import scala.collection.JavaConverters._
 import play.api.Play
 import play.api.Configuration
 
-import io.yard.models.SlackTeam
+import io.yard.common.models.SlackTeam
 
 trait Config {
   def config = Config.config

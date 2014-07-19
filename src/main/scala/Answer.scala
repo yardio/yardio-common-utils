@@ -1,4 +1,4 @@
-package io.yard.utils
+package io.yard.common.utils
 
 import scala.concurrent.Future
 import play.api.libs.concurrent.Execution.Implicits._
